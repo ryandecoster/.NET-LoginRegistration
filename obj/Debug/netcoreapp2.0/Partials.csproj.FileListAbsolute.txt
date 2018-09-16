@@ -1,0 +1,11 @@
+C:\Users\Ryan\Desktop\entity_framework\partials\bin\Debug\netcoreapp2.0\Partials.deps.json
+C:\Users\Ryan\Desktop\entity_framework\partials\bin\Debug\netcoreapp2.0\Partials.runtimeconfig.json
+C:\Users\Ryan\Desktop\entity_framework\partials\bin\Debug\netcoreapp2.0\Partials.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\entity_framework\partials\bin\Debug\netcoreapp2.0\Partials.dll
+C:\Users\Ryan\Desktop\entity_framework\partials\bin\Debug\netcoreapp2.0\Partials.pdb
+C:\Users\Ryan\Desktop\entity_framework\partials\obj\Debug\netcoreapp2.0\Partials.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\entity_framework\partials\obj\Debug\netcoreapp2.0\Partials.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\entity_framework\partials\obj\Debug\netcoreapp2.0\Partials.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\entity_framework\partials\obj\Debug\netcoreapp2.0\Partials.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\entity_framework\partials\obj\Debug\netcoreapp2.0\Partials.dll
+C:\Users\Ryan\Desktop\entity_framework\partials\obj\Debug\netcoreapp2.0\Partials.pdb
